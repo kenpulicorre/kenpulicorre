@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kenneth and I invite you to plant a tree. 😃🙏🌳 </h1>
 
-<img src="https://github.com/devAmador91/devAmador91/blob/main/hello-world.gif"/>
+---
 
 <p>
 <em>I graduated from 
@@ -9,8 +9,16 @@
 </em>
 </p>
 
-<p><em>During my master's degree, a new perspective emerged, focused on Full Stack development, So I decided to learn more about this branch of computer engineering.</br>
+<p><em>During my master's degree, a new perspective emerged, focused on Full Stack development, So I decided to learn more about this branch of computer engineering.
+<h3>what have been happening to me?</h3>I am 27 years old Colombian who loves electronic systems and technology. Thanks to virtualization, I got to know the branch of computing, where I found a new look and a new taste for learning. In this way i learned systems, AGILE methodologies, server and client side software technologies to join them in the development of applications. So i get a new focuse and passion for programming, achieved a full stack web develper certification.
+</br>
 </em></p>
+I want share with you my skills. Enjoy it!!
+<p><em>
+
+</em></p>
+
+---
 
 ### About me in code
 
@@ -38,18 +46,29 @@ const aboutMe = {
 
 ![Kenneth Puliche Correa github stats](https://github-readme-stats.vercel.app/api?username=kenpulicorre&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=121212)
 
+---
+
 ### Experience
 
 <p><em>
 
+I have experience working with technologies such as #JavaScript, #HTML, #Css, #React, #Node.js, #redux.js, #postgresql, #sequelize,#C, I also have experience in the use of tools such as socket.io, JWT, mercadopago, boostrap and others.
+
+Currently i have been created two complete CRUD web projects alone, applying all my knowledge in full stack. But I also collaborated as a full stack developer in an E-Commerce web project where products are marketed and services are offered to the client (focused on a barbershop). I have been improving my knowledge into technologies i met, just because i want to offer you great skills with the best results
+
+---
+
 ### <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 Email: ingkeneidel@gmail.com
-
 WP: +57 3114035305
 
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kenneth-puliche-correa-813311225)
 </br>
 </em></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenpulicorre&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
