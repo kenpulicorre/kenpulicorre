@@ -54,12 +54,18 @@ Currently I continue to delve deeper into the technologies that I already master
 
 I am looking for that company that allows me to give you the best of me and that at the same time offers me challenges where I can grow professionally.
 
-### Contact name
 
-Email: ingkeneidel@gmail.com
 
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/kenpuco/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="ingkeneidel@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 WP: +57 3114035305
-
+ </p>
+ 
 </br>
 </em></p>
 
