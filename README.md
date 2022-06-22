@@ -24,8 +24,6 @@ I want share with you my skills. Enjoy it!!
 
 ---
 
-<img align="right" alt="GIF" src="https://github.com/kenpulicorre/imagenes/blob/main/profile/5.gif" />
-
 ### About me in code
 
 ```javascript
@@ -51,6 +49,8 @@ const aboutMe = {
 <p><em>I really enjoy my new passion!
 </br>
 </em></p>
+
+<img align="right" alt="GIF" src="https://github.com/kenpulicorre/imagenes/blob/main/profile/5.gif" />
 
 ---
 
