@@ -1,24 +1,20 @@
 <h1>Hi, I'm Kenneth and I invite you to plant a tree. 😃🙏🌳 </h1>
+
 <img align="right" alt="GIF" src="https://github.com/kenpulicorre/imagenes/blob/main/profile/4.gif" />
 
 ---
 
 <p>
 
-<<<<<<< HEAD
+<em>I graduated from
+<a href="https://www.univalle.edu.co/">Univalle University </a> as a specialist degree in industrial automation. 😊 And received my degree in <a href="https://www.uao.edu.co/">UAO University</a> as a Mechatronic Engineering. 😊</br>
+</br>
+</em>
 <em>I graduated from
 <a href="https://www.univalle.edu.co/">Univalle University </a> as a specialist degree in industrial automation. 😊 And received my degree in <a href="https://www.uao.edu.co/">UAO University</a> as a Mechatronic Engineering. 😊</br>
 </br>
 </em>
 
-=======
- 
-
-<em>I graduated from 
- <a href="https://www.univalle.edu.co/">Univalle University </a> as a specialist degree in industrial automation. 😊 And received my degree in <a href="https://www.uao.edu.co/">UAO University</a> as a Mechatronic Engineering. 😊</br>
-</br>
-</em>
->>>>>>> cc1a839322b4b50699494b1e9f8f095995a84d8e
 </p>
 
 <p><em>During my master's degree, a new perspective emerged, focused on Full Stack development, So I decided to learn more about this branch of computer engineering.
