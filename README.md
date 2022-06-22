@@ -4,7 +4,7 @@
 
 <p>
  <img align="right" alt="GIF" src="https://github.com/kenpulicorre/imagenes/blob/main/profile/4.gif" />
- <img align="right" alt="GIF" src="https://github.com/kenpulicorre/imagenes/blob/main/profile/5.gif" />
+ 
 
 <em>I graduated from 
  <a href="https://www.univalle.edu.co/">Univalle University </a> as a specialist degree in industrial automation. 😊 And received my degree in <a href="https://www.uao.edu.co/">UAO University</a> as a Mechatronic Engineering. 😊</br>
@@ -22,7 +22,7 @@ I want share with you my skills. Enjoy it!!
 </em></p>
 
 ---
-
+<img align="right" alt="GIF" src="https://github.com/kenpulicorre/imagenes/blob/main/profile/5.gif" />
 ### About me in code
 
 ```javascript
