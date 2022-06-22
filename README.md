@@ -1,5 +1,6 @@
 <h1>Hi, I'm Kenneth and I invite you to plant a tree. 😃🙏🌳 </h1>
- <img align="right" alt="GIF" src="https://github.com/kenpulicorre/imagenes/blob/main/profile/4.gif" />
+<img align="right" alt="GIF" src="https://github.com/kenpulicorre/imagenes/blob/main/profile/4.gif" />
+
 ---
 
 <p>
@@ -23,6 +24,7 @@ I want share with you my skills. Enjoy it!!
 
 ---
 <img align="right" alt="GIF" src="https://github.com/kenpulicorre/imagenes/blob/main/profile/5.gif" />
+
 ### About me in code
 
 ```javascript
