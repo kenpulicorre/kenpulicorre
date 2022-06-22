@@ -1,5 +1,5 @@
 <h1>Hi, I'm Kenneth and I invite you to plant a tree. 😃🙏🌳 </h1>
-
+<img align="right" alt="GIF" src="https://github.com/kenpulicorre/imagenes/blob/main/profile/2.gif" />
 ---
 
 <p>
