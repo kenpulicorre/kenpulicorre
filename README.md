@@ -47,6 +47,11 @@ const aboutMe = {
    currentOccupation: ["last year student, open for job opportunities"]
 };
 ```
+
+<p><em>I really enjoy my new passion!
+</br>
+</em></p>
+
 ---
 
 ### 💻Some stats💻
