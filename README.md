@@ -23,6 +23,7 @@ I want share with you my skills. Enjoy it!!
 </em></p>
 
 ---
+
 <img align="right" alt="GIF" src="https://github.com/kenpulicorre/imagenes/blob/main/profile/5.gif" />
 
 ### About me in code
