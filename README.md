@@ -14,7 +14,7 @@
 </p>
 
 <p><em>During my master's degree, a new perspective emerged, focused on Full Stack development, So I decided to learn more about this branch of computer engineering.
-<h3>what have been happening to me?</h3>I am 27 years old Colombian who loves electronic systems and technology. Thanks to virtualization, I got to know the branch of computing, where I found a new look and a new taste for learning. In this way i learned systems, AGILE methodologies, server and client side software technologies to join them in the development of applications. So i get a new focuse and passion for programming, achieved a full stack web develper certification.
+<h3>more about me!</h3>I am 27 years old Colombian who loves electronic systems and technology. Thanks to virtualization, I got to know the branch of computing, where I found a new look and a new taste for learning. In this way i learned systems, AGILE methodologies, server and client side software technologies to join them in the development of applications. So i get a new focuse and passion for programming, achieved a full stack web develper certification.
 </br>
 </em></p>
 I want share with you my skills. Enjoy it!!
@@ -42,7 +42,7 @@ const aboutMe = {
       databases: ["Postgresql", "mySQL", "Sqlite"],
       orm: ["Sequelize]
    },
-   currentOccupation: ["last year student, open for job opportunities"]
+   currentOccupation: ["my last big proyect is  the barberApp, open for job opportunities"]
 };
 ```
 
