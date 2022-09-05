@@ -6,8 +6,8 @@
 
 <p>
 
-<em>I graduated from
-<a href="https://www.univalle.edu.co/">Univalle University </a> as a specialist degree in industrial automation. 😊 And received my degree in <a href="https://www.uao.edu.co/">UAO University</a> as a Mechatronic Engineering. 😊</br>
+<em>I graduated
+  as a Tronic Engineering. 😊</br>
 </br>
 </em>
 
@@ -42,7 +42,7 @@ const aboutMe = {
       databases: ["Postgresql", "mySQL", "Sqlite"],
       orm: ["Sequelize]
    },
-   currentOccupation: ["my last big proyect is  the barberApp, open for job opportunities"]
+   currentOccupation: ["my last big proyect was,  a backend and frontend web page activities, open for job opportunities"]
 };
 ```
 
@@ -72,12 +72,12 @@ Currently i have been created two complete CRUD web projects alone, applying all
 
 ### <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-Email: **ingkeneidel@gmail.com**
+
 Wpp: **<a href="https://wa.link/0l2haf"> +573114035605 </a>**
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-puliche-correa-813311225/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-813311225/)
 </br>
 </em></p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenpulicorre&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
