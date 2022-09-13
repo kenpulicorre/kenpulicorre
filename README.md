@@ -9,13 +9,6 @@
   as a Tronic Engineering. 😊</br>
 </br>
 </em>
-
-</p>
-
-<p><em>During my master's degree, a new perspective emerged, focused on Full Stack development, So I decided to learn more about this branch of computer engineering.
-<h3>more about me!</h3>I am 27 years old Colombian who loves electronic systems and technology. Thanks to virtualization, I got to know the branch of computing, where I found a new look and a new taste for learning. In this way i learned systems, AGILE methodologies, server and client side software technologies to join them in the development of applications. So i get a new focuse and passion for programming, achieved a full stack web develper certification.
-</br>
-</em></p>
 I want share with you my skills. Enjoy it!!
 <p><em>
 
@@ -54,19 +47,6 @@ const aboutMe = {
 ---
 
 ### 💻Some stats💻
-
-
----
-
-### Experience
-
-<p><em>
-
-I have experience working with technologies such as #JavaScript, #HTML, #Css, #React, #Node.js, #redux.js, #postgresql, #sequelize,#C, I also have experience in the use of tools such as socket.io, JWT, mercadopago, boostrap and others.
-
-Currently i have been created two complete CRUD web projects alone, applying all my knowledge in full stack. But I also collaborated as a full stack developer in an E-Commerce web project where products are marketed and services are offered to the client (focused on a barbershop). I have been improving my knowledge into technologies i met, just because i want to offer you great skills with the best results
-
----
 
 ### <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
