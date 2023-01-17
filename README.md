@@ -51,11 +51,11 @@ const aboutMe = {
 ### <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 
-Wpp: **<a href="https://wa.link/0l2haf"> +573114035605 </a>**
+Wpp: **<a href="https://wa.link/0l2haf"> +573184484423 </a>**
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-813311225/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennethe-p-813311225/)
 </br>
 </em></p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenpulicorre&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
